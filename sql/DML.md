@@ -9,7 +9,7 @@ Permite introducir datos para realizar tareas de consultas o modificación de lo
 
 
 
-```python
+```sql
 insert into [nombreTabla] values (valor1,valor2,valor3,…);
 ```
 
@@ -34,13 +34,13 @@ insert into [nombreTabla] values (valor1,valor2,valor3,…);
 
 
 
-```python
+```sql
 select [nombreColumna1], [nombreColumna2], …
 from [nombreTabla]
 ```
 
 
-```python
+```sql
 select codCliente, edad
 from cliente
 ```
@@ -48,13 +48,13 @@ from cliente
    <img src="fotos/45.PNG" style="width:400px;" >
 
 
-```python
+```sql
 select [* = todas las columnas]
 from [nombre Tabla]
 ```
 
 
-```python
+```sql
 select * from cliente
 select * from libro
 select * from compra
@@ -69,7 +69,7 @@ select * from compra
 
 
 
-```python
+```sql
 insert into cliente values (6, 'Ana Luna', 17 , 'UBA');
 insert into cliente values (7, 'Ana Luna', 25 , 'UBA');
 insert into cliente values (8, 'Javier Wam', 20 , 'UBA');
@@ -78,7 +78,7 @@ insert into cliente values (8, 'Javier Wam', 20 , 'UBA');
 •	Verificamos que se hayan agregado los nuevos registrados son select.
 
 
-```python
+```sql
 select * from cliente
 ```
 
@@ -88,28 +88,26 @@ select * from cliente
 
 
 
-```python
+```sql
 
 select distinct [nombreColumna1], [nombreColumna2], …
 from [nombreTabla]
 
 ```
 
-### 3.	Update
-
-•	Para modificar datos ya existentes en una tabla:
-
-
-```python
+```sql
 select district universidad 
 from cliente
 ```
+### 3.	Update
+
+•	Para modificar datos ya existentes en una tabla:
 
    <img src="fotos/49.PNG" style="width:400px;" >
 
 
 
-```python
+```sql
 update [nombreTabla],
 set [nombreAtributo1]=[valor1], [nombreAtributo2]=[valor2], …
 where [condición]
@@ -128,7 +126,7 @@ where [condición]
 
 
 
-```python
+```sql
 update cliente
 set nombre='Juan Lazo', edad, universidad='USA'
 where codCliente=5;
@@ -137,7 +135,7 @@ where codCliente=5;
 •	Consultamos con select los registros de la tabla cliente, y vemos que se actualizó exitosamente.
 
 
-```python
+```sql
 select * from cliente
 ```
 
@@ -162,6 +160,3 @@ III.	DML: Data Manipulation Language
 
 
 
-```python
-
-```
