@@ -82,7 +82,8 @@ Añadiremos esta sentencia para agregar el atributo “edición” fuera de las 
 
  
 
-
+## Herramientas Tecnlógicas
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/LV.html">I.   Laboratorio Virtual</a>
 
 ## Contenido:
 
