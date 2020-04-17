@@ -143,6 +143,8 @@ select * from cliente
 
 
 ### 4.	Delete
+## Herramientas Tecnlógicas
+<a href="https://fing-up.github.io/Ingenieria-de-datos/sql/LV.html">I.   Laboratorio Virtual</a>
 
 ## Contenido:
 
