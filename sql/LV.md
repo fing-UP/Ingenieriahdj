@@ -1,5 +1,5 @@
 # MANUAL DE INSTALACIÓN DEL LABORATORIO VIRTUAL
-<img src="fotos/mati.PNG" style="width:650px;" margin-left=0px>
+<img src="fotos/mati.png" style="width:650px;" margin-left=0px>
 <img src="fotos/ma1.PNG" style="width:60px;" margin-left=0px>
  •	Ingresamos a  <a href="url">labvirtual.up.edu.pe</a> 
 
