@@ -1,7 +1,7 @@
 # MANUAL DE INSTALACIÓN DEL LABORATORIO VIRTUAL
 <img src="fotos/mati.png" style="width:650px;" margin-left=0px>
 <img src="fotos/ma1.PNG" style="width:60px;" margin-left=0px>
- •	Ingresamos a  <a href="url">https://labvirtual.up.edu.pe/</a> <a href="url">https://labvirtual.up.edu.pe/</a>
+ •	Ingresamos a <a href="url">https://labvirtual.up.edu.pe/</a>
 
 •	Seleccionamos Install <b>VMware Horizon Client</b>
 
