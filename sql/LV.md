@@ -1,7 +1,7 @@
 # MANUAL DE INSTALACIÓN DEL LABORATORIO VIRTUAL
 <img src="fotos/mati.png" style="width:650px;" margin-left=0px>
 <img src="fotos/ma1.PNG" style="width:60px;" margin-left=0px>
- •	Ingresamos a  <a href="url">labvirtual.up.edu.pe</a> 
+ •	Ingresamos a  <a href="url">"https://flabvirtual.up.edu.pe"</a> 
 
 •	Seleccionamos Install <b>VMware Horizon Client</b>
 
@@ -63,7 +63,7 @@
 
 •	Seleccionamos <b>Add Server</b>.
 <img src="fotos/ma11.PNG" style="width:280px;" margin-left=0px>
-•	Nuestro servidor es <a href="url">labvirtual.up.edu.pe</a>. Nos conectamos.
+•	Nuestro servidor es <a href="url">"https://flabvirtual.up.edu.pe"</a>. Nos conectamos.
 
 <img src="fotos/ma12.PNG" style="width:500px;" margin-left=0px>
 
@@ -113,4 +113,3 @@ I.   Laboratorio Virtual
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CB.html">V.	Consultas Básicas</a>
 
 <a href="https://fing-up.github.io/Ingenieria-de-datos/sql/CA.html">VII.	Consultas Agrupada</a>
-
